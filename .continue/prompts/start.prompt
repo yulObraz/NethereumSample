@@ -1,0 +1,11 @@
+---
+name: start
+description: Запустить новую сессию с контекстом проекта
+invokable: true
+---
+Read context for the current session:
+
+{{{ file "./CONTEXT.md" }}}
+{{{ file "./CONTEXT.user.md" }}}
+
+Use the data. Do not create code now, say: "Project context is loaded."

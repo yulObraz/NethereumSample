@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="BigAmountService.Test/BigAmountService.Test.csproj" />
+  <Project Path="BigAmountService/BigAmountService.csproj" />
+</Solution>

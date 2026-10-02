@@ -1,0 +1,6 @@
+@BigAmountService_HostAddress = http://localhost:5215
+
+GET {{BigAmountService_HostAddress}}/info/CurrentBlock
+Accept: application/json
+
+###
